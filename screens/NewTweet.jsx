@@ -5,7 +5,7 @@ export default function NewTweet ()
 {
     return(
         <View style = {{ flex:1, alignItems: 'center',justifyContent:'center' }}>
-            <Text>NewTweet Screen </Text>
+            <Text>Please type something to start seeking</Text>
         </View>
     );
 }
